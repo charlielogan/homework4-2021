@@ -32,6 +32,7 @@ body{
   margin: 1.2em;
   background-size: cover ;
   background-position: center;
+  background-repeat:no-repeat;
   font-family: 'Andika', sans-serif;
   background-image: url("../images/pigeon-background.JPEG");
   background-color:#DDDDDD;
@@ -76,7 +77,8 @@ td{
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
-  margin:auto;
+  margin-right: auto;
+  margin-left:auto;
   text-transform: uppercase;
   background-color: #7e0820;
 }
